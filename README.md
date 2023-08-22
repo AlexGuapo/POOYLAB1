@@ -7,5 +7,6 @@
     _p01_HolaMundo
     _p02_AreaCirculo
     _p03_AreaTriangulo
+    _p04_PagaTrabajador
 ## Actividad 2
     _p05_OperacionesMatematicas
