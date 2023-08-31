@@ -41,3 +41,10 @@
 - _p30_DiaSemana
 - _p31_NumerosRomanos
 - _p32_PagoEstacionamiento
+## Practica 2
+- _p33_NumerosConsecutivos
+- _p34_NumeroMayor
+- _p35_ContinentesMundo
+- _p36_CompraPizza
+- _p37_CalculoNotas
+- _p38_AceptarEstudianteV2
