@@ -15,7 +15,7 @@ public class _p37_CalculoNotas {
         System.out.print("4ta Calificacion: "); cal4 = obj.nextFloat();
         System.out.print("5ta Calificacion: "); cal5 = obj.nextFloat();
 
-        promedio = cal1 + cal2 + cal3 + cal4 + cal5;
+        promedio = (cal1 + cal2 + cal3 + cal4 + cal5)/5;
 
         if ((promedio > 0) && (promedio <= 6)) {
             System.out.print(String.format("El promedio es: %.2f\nQuedas reprobado", promedio));
