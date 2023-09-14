@@ -75,3 +75,8 @@
 - _p58_Piramide
 - _p59_FactorialNumeros
 - _p60_SumaTerminos
+## Practica 4
+- _p61_SecuenciaNumeros1
+- _p62_SecuenciaNumeros2
+- _p63_SumaTerminos1
+- _p64_SumaTerminos2
