@@ -143,4 +143,6 @@
 ## Actividad 19
 - _p111_CuentaBancariaV12
 ## Practica 10
-- _p112_ControlVentas
+- _p112_ControlVenta
+## Segundo Examen Parcial
+- _p113_SegundoExamenParcial
