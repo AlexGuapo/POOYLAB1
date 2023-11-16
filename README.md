@@ -188,5 +188,7 @@
 - _p144_Temperaturas
 ## Actividad 25
 - _p145_HolaMundoGUI_V1
+## Actividad 26
+- _p146_HolaMundoGUI_V2
 ## Tercer Examen Parcial
 - _p147_TercerExamenParcial
