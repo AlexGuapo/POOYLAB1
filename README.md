@@ -186,3 +186,5 @@
 ## Practica 14
 - _p143_PagaTrabjador
 - _p144_Temperaturas
+## Actividad 25
+- _p145_HolaMundoGUI_V1
